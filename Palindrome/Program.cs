@@ -33,7 +33,7 @@ namespace Palindrome
             }
             else
             {
-                Console.WriteLine("Not a plaindrome!");
+                Console.WriteLine("Not a palindrome!");
 
                 return false;
 
